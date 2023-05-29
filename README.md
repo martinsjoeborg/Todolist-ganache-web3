@@ -1,1 +1,2 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10761199&assignment_repo_type=AssignmentRepo)
+<p>This was an individual school project and the first time we got familiar to work with ganache, solidity, web3 and metamask.</p><br>
+<p>Its a simple todolist but you need to connect to ganache with your metamask wallet and confirm the todos you want to save, change or delete from the ganache test blockchain.</p>
